@@ -24,9 +24,9 @@ El programa al iniciar carga algunos libros de ejemplo en el array bidimensional
 - 📌 Menú interactivo por consola
 
 ---
-|[imagene1](imagenes/Captura%20de%20pantalla%202025-05-30%20185944.png)
-|[imagene2](imagenes/Captura%20de%20pantalla%202025-05-30%20185931.png)
-|[imagene3](imagenes/Captura%20de%20pantalla%202025-05-30%20190002.png)
+![imagene1](imagenes/Captura%20de%20pantalla%202025-05-30%20185944.png)
+![imagene2](imagenes/Captura%20de%20pantalla%202025-05-30%20185931.png)
+![imagene3](imagenes/Captura%20de%20pantalla%202025-05-30%20190002.png)
 ## 💻 Tecnologías utilizadas
 
 - Lenguaje: **Java**
