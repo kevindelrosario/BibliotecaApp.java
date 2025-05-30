@@ -39,4 +39,4 @@ El programa al iniciar carga algunos libros de ejemplo en el array bidimensional
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/SimuladorBibliotecaJava.git
+   git clone https://github.com/kevindelrosario/BibliotecaApp.java.git
